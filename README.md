@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection
 
-A machine learning project that detects fraudulent credit card transactions using a **Random Forest** classifier, evaluated with **Precision**, **Recall**, and **ROC-AUC** metrics.
+A machine learning project that detects fraudulent credit card transactions.
 
 ---
 
