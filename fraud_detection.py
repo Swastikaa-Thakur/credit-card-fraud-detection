@@ -1,8 +1,7 @@
 """
-Credit Card Fraud Detection using Random Forest
+Credit Card Fraud Detection 
 Author: Swastika
-Description: Detects fraudulent credit card transactions using
-             a Random Forest classifier, evaluated with precision & recall.
+Description: Detects fraudulent credit card transactions.
 """
 
 import os
