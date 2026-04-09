@@ -45,7 +45,13 @@ python fraud_detection.py
 ```
 
 ---
+## 📂 Dataset
+This project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle.
 
+**Steps to set up:**
+1. Download `creditcard.csv` from the link above
+2. Place it in the root project folder
+3. Run `python fraud_detection.py`
 ## 📊 Sample Output
 
 ```
